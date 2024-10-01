@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ramigme.github.io/sitemap.html.gz
+Sitemap: https://ramigme.github.io/app/sitemap.html.gz
+Sitemap: https://ramigme.github.io/assets/sitemap.html.gz
+Sitemap: https://ramigme.github.io/css/sitemap.html.gz
+Sitemap: https://ramigme.github.io/data/sitemap.html.gz
+Sitemap: https://ramigme.github.io/includes/sitemap.html.gz
+Sitemap: https://ramigme.github.io/item/sitemap.html.gz
+Sitemap: https://ramigme.github.io/src/sitemap.html.gz
